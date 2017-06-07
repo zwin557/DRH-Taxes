@@ -1,7 +1,6 @@
 # DRH-Taxes
 # Tax calculation for the Democratic Republic of Hughland [1]
 
-[describe in a couple of sentences what the s
 Aim: To determine the amount in paid taxes is when filing income taxes as an individual or as a coorporation under the tax laws of the Democratic Republic of Hughland (DRH) [2]
 
 ## Project descrition
