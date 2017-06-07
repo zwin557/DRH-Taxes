@@ -9,7 +9,6 @@ This software allows clients to compare how much in income taxes should be paid 
 Under the current tax laws of of the DRH, taxes are calculated as follows:
 
 ### When filing as an indivudual
-* Tot
 - 0%, for under $10,000
 - 17% for the bracket between $10,000-$30,000
 - 28% for the bracket between $30,000-70,000
@@ -58,5 +57,6 @@ Under the current tax laws of of the DRH, taxes are calculated as follows:
 
 
 
-[1] *The republic does not exist. (Hugh, however, does) *
+[1] *The republic does not exist. (Hugh, however, does)*
+
 [2] *Don't google it. As I said, it does not exist.*
