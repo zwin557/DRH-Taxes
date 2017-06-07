@@ -3,8 +3,8 @@
 
 Aim: To determine the amount in paid taxes is when filing income taxes as an individual or as a coorporation under the tax laws of the Democratic Republic of Hughland (DRH) [2]
 
-## Project descrition
-This software allows clients to compare how much in income taxes should be paid whether one is filing as an individual or as a coorportation. 
+## Project description
+This software allows clients to compare how much income taxes should be paid whether one is filing as an individual or as a corporation. 
 Under the current tax laws of of the DRH, taxes are calculated as follows:
 
 ### When filing as an indivudual
@@ -13,7 +13,7 @@ Under the current tax laws of of the DRH, taxes are calculated as follows:
 - 28% for the bracket between $30,000-70,000
 - 35% for all income above $70,000
 
-### When filing as a coorporation
+### When filing as a corporation
 - 20% applied to the total income
 - If income is above $80,000, then incurred losses can be subtracted from income
 
