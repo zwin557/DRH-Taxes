@@ -23,6 +23,8 @@ Under the current tax laws of of the DRH, taxes are calculated as follows:
 
 ## Implementation and architecture
 
+<center><img src=images/DRH-taxes-top-level-flowchart.png width=400 height=400 /></center>
+
 ## Quality control
 
 ## Prerequisites
