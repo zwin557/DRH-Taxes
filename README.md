@@ -19,30 +19,46 @@ Under the current tax laws of of the DRH, taxes are calculated as follows:
 
 ## Running the programme using the test data
 ### Steps
+- Individual Tax calculation
+  - get input(income) from user
+  - calculate tax based on the income
+  - calculate the final income after deducting tax
+  - output the final income
 ### Expected output
-
+- Individual Tax
+  - Final income after deducting tax
 ## Implementation and architecture
 
 <center><img src=images/DRH-taxes-top-level-flowchart.png width=400 height=400 /></center>
 
 ## Quality control
-
+- Individual Tax
+  - Created test code and validated the Individual Tax calculation
 ## Prerequisites
 
 ### Operating System
-
+- Individual Tax
+  - Windows
+  - Ubuntu
 ### Programming Language
-
+- Individual Tax
+  - Python
 ### Additional System Requirements
-
+- Individual Tax
+  - Nil
 ### Dependencies
 
 ## Input data requirements
-
+- Individual Tax
+  - A list of individual income
 ## Limitations
-
+- Individual Tax
+  - Nil
 ## List of contributors
-
+- Individual Tax
+  - Amir
+  - Zay
+  - Jason
 ## Licencing
 
 ## Acknowledgements
